@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on MERN stack project with frontend focused
+🔭 I’m currently working on MERN stack projects 
    
 <!--
 **satpreetvirdi/satpreetvirdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
