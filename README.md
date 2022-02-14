@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.mongodb.com//" target="_blank"><img src="./assets/mongodb.svg" align="left" alt="git" height='42px'/></a>
+<!-- <a href="https://www.mongodb.com//" target="_blank"><img src="./assets/mongodb.svg" align="left" alt="git" height='42px'/></a> -->
 
 <!-- <a href="https://sass-lang.com/" target="_blank"><img src="./assets/sass.svg" align="left" alt="git" height='42px'/></a>
  -->
