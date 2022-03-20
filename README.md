@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=satpreetvirdi&theme=radical&show_icons=true&count_private=true)](https://github.com/satpreetvirdi/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satpreetvirdi)](https://github.com/satpreetvirdi/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satpreetvirdi)](https://github.com/satpreetvirdi/github-readme-stats) -->
 ### 🔨 Languages and Tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
