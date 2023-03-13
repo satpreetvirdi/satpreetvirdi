@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on MERN stack projects 
+- 🔭 I’m currently working on Web 3 projects (Solidity,Truffle,Hardhat,EtherJS,OpenZepplin) 
+- ⚡ Full Stack Web Developer
 - ⚡ Practising DSA questions on Leetcode 
    
 <!--
