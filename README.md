@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Blockchain projects (Solidity,Truffle,Hardhat,EtherJS,OpenZepplin) 
+- 🔭 I’m currently working on Blockchain projects (Solidity,Truffle,Hardhat,EtherJS,OpenZeppelin) 
 - ⚡ Full Stack Web Developer
 - ⚡ Practising DSA questions on Leetcode 
    
