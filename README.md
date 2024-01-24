@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Blockchain projects (Solidity,Truffle,Hardhat,EtherJS,OpenZeppelin) 
-- ⚡ Full Stack Web Developer
+- 🔭 I’m a proficient Full Stack Developer [ MERN stack]
 - ⚡ Practising DSA questions on Leetcode 
    
 <!--
