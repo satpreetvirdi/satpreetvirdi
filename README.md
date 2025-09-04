@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m a proficient Full Stack Developer [ MERN stack]
-- ⚡ Practising DSA questions on Leetcode 
+- Building stuff leveraging tech
    
 <!--
 **satpreetvirdi/satpreetvirdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
